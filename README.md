@@ -34,7 +34,7 @@
   <h2>🚀 Cómo Iniciar</h2>
   <ol>
     <li>Clona este repositorio:</li>
-    <pre><code>git clone https://github.com/tu-usuario/tu-repositorio.git</code></pre>
+    <pre><code>git clone https://github.com/JLeandroBouza/cypress-practica-demoqa.git</code></pre>
     <li>Instala las dependencias:</li>
     <pre><code>npm install</code></pre>
     <li>Ejecuta las pruebas en modo interactivo:</li>
